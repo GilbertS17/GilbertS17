@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GilbertS17
 - 👀 I’m interested in front-end and web development 
-- 🌱 I’m currently learning React...
-- 💞️ I’m looking to land a remote junior frontend developer position
+- 🌱 I’m currently learning React Native...
+- 💞️ I’m looking to land a junior frontend developer position
 - 📫 How to reach me via email: gilbertsahyoun.business@gmail.com
