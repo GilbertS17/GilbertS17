@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GilbertS17
 - 👀 I’m interested in web development, Flutter development
-- 🌱 I’m currently creating an app for my school as my senior project in the university.
+- 🌱 I’m currently improving my skills in app and web development.
 - 💞️ I’m looking to land a junior frontend developer position
 - 📫 How to reach me via email: gilbertsahyoun.business@gmail.com
